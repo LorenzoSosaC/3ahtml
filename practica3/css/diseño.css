@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    background-color: turquoise;
+}
+body{
+    width: 1000px;
+    height: 250px;
+    margin: auto;
+    background-color: white;
+}
+section#logo{
+    width: 200;
+    height: 200;
+    float: left;
+    background-color: black;
+}

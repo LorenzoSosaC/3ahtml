@@ -1,0 +1,165 @@
+style
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h3{
+    color: red;
+}
+html{
+    background-color: black;
+}
+body{
+    width: 1200px;
+    height: 1200px;
+    background-color: white;
+    margin: auto;
+}
+header{
+    width: 1200px;
+    height: 100px;
+    background-color: #e51a4c;
+}
+main{
+    width: 1200px;
+    height: 1200px;
+    background-color: #497e76;
+}
+section#imagen{
+    width: 250px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+section#datos{
+    width: 900px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #9b9b9b;
+    text-align: left;
+    
+}
+section#datosp{
+    width: 900px;
+    height: 180px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: lightgray;
+    text-align: left;
+}
+section#exp{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#exp1{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}
+section#edu{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#edu1{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}
+section#capa{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #646464;
+}
+section#lengua{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#lengua1{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}
+section#otros{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#otros1{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}
+section#capa2{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#capa3{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}
+section#per{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#per1{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}
+section#info{
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #9b9b9b;
+}
+section#info1{
+    width: 1160px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: lightgray;
+}

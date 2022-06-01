@@ -1,0 +1,14 @@
+style
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h3{
+    color: red;
+}
+html{
+    background-color: white;
+}
+body#margen{
+    margin: 2px solid black;
+}

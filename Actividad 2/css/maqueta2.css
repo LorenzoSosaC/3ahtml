@@ -1,0 +1,86 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    background-color: black;
+}
+body{
+    width: 750px;
+    height: 750px;
+    background-color: white;
+    margin: auto;
+}
+nav{
+    width: 750px;
+    height: 50px;
+    background-color: green;
+}
+
+header{
+    height: 250px;
+    background-color: blue;
+}
+section#banner{
+    width: 500px;
+    height: 230px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+section#logo{
+    width: 220px;
+    height: 230px;
+    background-color: white;
+    float: right;
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+}
+section#login{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    float: right;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+}
+section#form{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    float: right;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+}
+main{
+    width: 750px;
+    height: 400px;
+    background-color: brown;
+}
+aside#aside0{
+    width: 270px;
+    height: 380px;
+    margin-left: 10px;
+    background-color: white;
+    float: left;
+    margin-top: 10px;
+}
+article{
+    width: 450px;
+    margin-left: 10px;
+    height: 380px;
+    background-color: white;
+    float: left;
+    margin-top: 10px;
+
+}
+
+footer{
+    height: 50px;
+    background-color: yellow;
+}

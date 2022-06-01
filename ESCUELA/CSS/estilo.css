@@ -1,0 +1,115 @@
+.menucabecera{
+    background-color: #ff9933;
+    height: 40px;
+    text-align: right;
+    padding: 5px 5px 5px 0;
+}
+.menucabecera a:link, a:visited{
+    border-right: #ff6600 1px solid;
+    padding-right: 8px;
+    text-decoration: none;
+    color: #ffffff
+    ;
+}
+.menucabecera a:hover{
+    color: #000000;
+}
+
+.cabecera{ 
+    background-color: #ff9933;
+    height: 120px;
+    padding: 5px 5px 5px 5px;
+    color: #ffffff;
+}
+   
+.cabecera h5{
+    color: whitesmoke
+    ;
+
+}
+.menuprincipal{
+    background-color: #993300;
+    height: 40px;
+}
+.menu{
+    list-style: none;
+    font:85% Arial;
+}
+.mh{
+    float: left;
+    padding: 0 0 0 1px;
+    margin: 0px;
+}
+.menu li{
+    float: left;
+    border-right: 1px solid #ffffff;
+    height: 40px;
+}
+
+.menu li a:link, li a:visited{
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 6px 20px;
+    height: 40px;
+}
+.menu li a:active{
+    color: #000000;
+    background: #993300;
+    height: 40px;
+}
+.menu li a:hover{
+    color: #000000;
+    background: #ffcc66;
+    height: 40px;
+}
+
+.bannerimg{
+    background: #ffffff;
+    text-align: center;
+    border-bottom: 3px solid #993300;
+    
+}
+.textobanner{
+    background-color: #ffffff;
+    text-align: left;
+    color: #ff9933;
+    height: 320px;
+    border-bottom: 3px solid #993300 ;
+    font: 95% Arial;
+}
+.textobanner p{
+    margin: 30px;
+}
+.tamfilacol{
+    height: 400px;
+}
+
+.c1{
+    background-color: #ffffff;
+    height: 100%;
+
+}
+.contenedor1{
+    margin: 10px;
+    border-right: #993300 solid 3px;
+}
+.contenedor1 h3{
+    text-align: center;
+    color: #ff9933;
+    font-weight: bold;
+}
+.contenedor1 p{
+    text-align: center;
+    color: #993300;
+    font: bold Arial;
+}
+
+.pie{
+     background-color: #ff9933;
+     height: 40px;
+     text-align: center;
+     padding: 5px 5px 5px 0;
+     margin-top: 100px;
+     border-top: solid 3px #993300;
+ }
